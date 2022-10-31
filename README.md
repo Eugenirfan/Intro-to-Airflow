@@ -18,6 +18,9 @@ The hooks and operators work together to complete below flow easily
 
 create_table >> is_api_available >> extract_user >> process_user >> store_user
 
+Group Dag:
+Combines multiple worflows to one
+
 
 
 
