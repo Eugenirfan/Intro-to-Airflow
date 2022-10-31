@@ -1,0 +1,7 @@
+POSTGRES:
+connection id: postgres
+connection type : postgres
+host: postgres
+login: airflow
+password: airflow
+Port 5432
